@@ -90,6 +90,9 @@
     .full-grid{
         grid-template-columns:1fr 1fr 1fr;
     }
+    .views,.chanelowner,.talk,.video-text,.subscriber{
+    font-size:100%;
+    }
 }
 @media (min-width:1000px){
     .full-grid{
