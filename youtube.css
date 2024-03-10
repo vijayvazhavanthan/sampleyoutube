@@ -388,3 +388,7 @@
         font-size:14px;
     }
 }
+
+.views,.channelowner,.talk,.video-text,.subscriber{
+    font-size:100%;
+}
