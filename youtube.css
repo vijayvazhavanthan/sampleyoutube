@@ -91,7 +91,7 @@
         grid-template-columns:1fr 1fr 1fr;
     }
     .views,.chanelowner,.talk,.video-text,.subscriber{
-    font-size:100%;
+    font-size:50%;
     }
 }
 @media (min-width:1000px){
